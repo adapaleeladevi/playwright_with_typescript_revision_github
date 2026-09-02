@@ -1,0 +1,6 @@
+console.log(5 & 1); // 1 (AND)
+console.log(5 | 1); // 5 (OR)
+console.log(5^1); // 4 (XOR)
+console.log(~5); // -6 (NOT)
+console.log(5 << 1); // 10 (Left shift)
+console.log(5 >> 1); // 2 (Right shift)
